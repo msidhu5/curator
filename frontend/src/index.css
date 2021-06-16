@@ -1,0 +1,123 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*/
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* linear gradient found here: https://uigradients.com/*/
+body {
+  background: linear-gradient(#0F2027, #203A43, #2C5364);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+nav {
+  background: #0F2027;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+a {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+.form-label {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+.form-check-label {
+  color: white;
+}
+
+.navbar-text {
+  color: white;
+}
+
+
+h2 {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+}
+
+h3 {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+}
+
+#albums {
+  height: 500px;
+  width: 500px;
+  background-color: powderblue;
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+#main-description {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+#activity-info {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+#activity-italics {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-style: italic;
+}
+.top-buffer { margin-top: 30px;}
+
+.navlink {
+  margin-right: 10px;
+}
+
+label {
+  color: white;
+}
+
+.form-range {
+  width: 100%;
+}
+
+.card {
+  width: 18rem;
+}
+
+#header {
+  text-decoration: underline;
+}
+
+#no-link-nav {
+  color: #2d7df6;
+  font-weight: bold;
+}
+
+#player_text {
+  color: white;
+}
+
